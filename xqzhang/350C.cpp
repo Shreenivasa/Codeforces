@@ -1,3 +1,8 @@
+// Author: Xiongqi ZHANG
+// Problem: http://codeforces.com/contest/350/problem/C
+// Submission: http://codeforces.com/contest/350/submission/11407064
+// Status: AC
+
 #include <iostream>
 #include <algorithm>
 using namespace std;

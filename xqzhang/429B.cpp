@@ -1,3 +1,8 @@
+// Author: Xiongqi ZHANG
+// Problem: http://codeforces.com/contest/429/problem/B
+// Submission: http://codeforces.com/contest/429/submission/11394781
+// Status: AC
+
 #include <iostream>
 #include <cstring>
 using namespace std;
